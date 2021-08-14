@@ -8,6 +8,7 @@
 body {
   font-family: 'Raleway', sans-serif;
   font-family: 'Roboto', sans-serif;
+  color: var(--first-color);
 }
 .list {
   list-style: none;
@@ -57,7 +58,6 @@ body {
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--first-color);
   border: none;
   cursor: pointer;
 }
@@ -71,7 +71,6 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: var(--first-color);
 }
 .portfolio-main-p {
   font-weight: normal;
@@ -113,7 +112,6 @@ body {
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--first-color);
 }
 .studio-section-two-p {
   font-weight: normal;
@@ -128,7 +126,6 @@ body {
   line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--first-color);
 }
 .studio-section-three-li {
   display: inline;
@@ -143,7 +140,6 @@ body {
   line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--first-color);
 }
 .studio-section-four-names {
   font-weight: 500;
@@ -151,7 +147,6 @@ body {
   line-height: 1.18;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--first-color);
 }
 .studio-section-four-position {
   font-weight: normal;
