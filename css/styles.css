@@ -18,7 +18,8 @@ body {
 }
 /* !!!!!!!!!!!!!!!!!!!header !!!!!!!!!!!!!!!!!*/
 .header-logo {
-  font-weight: bold;
+  font-family: 'Raleway';
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -52,7 +53,9 @@ body {
   border: 1px solid #ececec;
 }
 /* !!!!!!!!!!!!!main portfolio!!!!!!!!!!!!!!! */
+
 .portfolio-main-button {
+  font-family: 'Roboto';
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -93,7 +96,8 @@ body {
   color: var(--fifth-color);
 }
 .studio-batton {
-  font-weight: bold;
+  font-family: 'Roboto';
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
   display: flex;
@@ -161,13 +165,15 @@ body {
   background: var(--fourth-color);
 }
 .footer-logo {
-  font-weight: bold;
+  font-family: 'Raleway';
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--fifth-color);
 }
 .footer-link-address {
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -175,6 +181,7 @@ body {
   color: var(--fifth-color);
 }
 .footer-address-link {
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
